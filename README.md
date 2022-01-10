@@ -23,9 +23,9 @@ experienced developer to design and architect innovative software solutions.
  <img src="https://activity-graph.herokuapp.com/graph?username=mohammadne&theme=redical">
 </p> 
 
-<p align = "center">
+<!-- <p align = "center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
-</p> 
+</p>  -->
 
 
 
