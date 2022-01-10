@@ -1,13 +1,17 @@
 # mohammadne 🌳
 
-
+<!-- HEADER -->
 [![MasterHead](assets/header.png)](https://github.com/mohammadne)
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohammadne/resume.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/mohammadne/mohammadne/blob/master/resume.pdf)
-
-[![](https://img.shields.io/badge/-parham.alvani-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/1995parham)
-
-
+<!-- BADGES -->
+<p align="center">
+	<a href="https://github.com/mohammadne/mohammadne/blob/master/resume.pdf">
+  		<img src="https://img.shields.io/badge/Resume-link-blue.svg" />
+	</a>
+	<a href="https://github.com/1995parham">
+  		<img src="https://img.shields.io/badge/Thanks%20to-Parham-286b4f.svg" />
+	</a>
+</p>
 
 ```go
 aboutMe := map[string]interface{}{
