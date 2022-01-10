@@ -1,7 +1,7 @@
 # mohammadne 🌳
 
 
-[![MasterHead](https://user-images.githubusercontent.com/51189292/148718078-3a022062-1055-4519-8c17-fd586039db60.png)](https://github.com/mohammadne)
+[![MasterHead](assets/header.png)](https://github.com/mohammadne)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohammadne/resume.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/mohammadne/resume.pdf/releases/latest)
 [![](https://img.shields.io/badge/-parham.alvani-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/1995parham)
