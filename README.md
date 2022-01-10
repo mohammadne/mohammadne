@@ -6,11 +6,24 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohammadne/resume.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/mohammadne/resume.pdf/releases/latest)
 [![](https://img.shields.io/badge/-parham.alvani-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/1995parham)
 
-## About Me
 
-I am a Software Engineer at Snapp! and I study computer science at Amirkabir university of Technology, and 
-also interested in open source communities with years of experience in a variety of environments with a breadth of programs and technologies, 
-experienced developer to design and architect innovative software solutions.
+
+```go
+aboutMe := map[string]interface{}{
+	"name":            "Mohammad",
+	"profession":      "Software Engineer",
+	"location":        "Iran",
+	"university":      "Amirkabir university of Technology",
+	"currentPosition": "Snapp!, the biggest online taxi service provider in Iran",
+	"languages":       []string{"Go", "Rust", "Python", "SQL"},
+	"frameworks":      []string{"Flask", "Laravel"},
+	"databases":       []string{"SQLserver", "PostgreSQL", "MySQL", "MongoDB"},
+	"interests":       []string{"software design", "machine learning", "algorithms", "cloud"},
+	"design":          []string{"Clean Architecture", "Microservices"},
+	"tools":           []string{"Kubernetes", "Docker", "Vim", "Git"},
+	"systems":         []string{"Linux", "MacOs"},
+}
+``` 
 
 ## Statistics
 
