@@ -3,7 +3,8 @@
 
 [![MasterHead](assets/header.png)](https://github.com/mohammadne)
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohammadne/resume.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/mohammadne/resume.pdf/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohammadne/resume.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/mohammadne/mohammadne/blob/master/resume.pdf)
+
 [![](https://img.shields.io/badge/-parham.alvani-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/1995parham)
 
 
