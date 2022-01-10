@@ -15,8 +15,8 @@ experienced developer to design and architect innovative software solutions.
 ## Statistics
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=radical&line_height=20&layout=compact">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical&layout=compact">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=radical&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical">
 </p>
 
 <p align = "center">
