@@ -9,7 +9,7 @@
   		<img src="https://img.shields.io/badge/Resume-link-blue.svg" />
 	</a>
 	<a href="https://github.com/1995parham">
-  		<img src="https://img.shields.io/badge/Thanks%20to-Parham-286b4f.svg" />
+  		<img src="https://img.shields.io/badge/Thanks%20to-1995parham-286b4f.svg" />
 	</a>
 </p>
 
