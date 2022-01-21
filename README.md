@@ -13,8 +13,10 @@
 	</a>
 </p>
 
+## About Me
+
 ```go
-aboutMe := map[string]interface{}{
+whoAmI := map[string]interface{}{
 	"name":            "Mohammad",
 	"profession":      "Software Engineer",
 	"location":        "Iran",
