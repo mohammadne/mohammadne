@@ -13,16 +13,14 @@
 	</a>
 </p>
 
-## About Me
-
 ```go
 whoAmI := map[string]interface{}{
 	"name":            "Mohammad",
 	"profession":      "Software Engineer",
 	"location":        "Iran",
 	"university":      "Amirkabir university of Technology",
-	"currentPosition": "Snapp!, the biggest online taxi service provider in Iran",
-	"languages":       []string{"Go", "Rust", "Python", "Javascript", "SQL"},
+	"currentPosition": "Snapp!",
+	"languages":       []string{"Go", "Rust", "Python", "Javascript"},
 	"frameworks":      []string{"Flask", "Nodejs"},
 	"databases":       []string{"SQLserver", "PostgreSQL", "MySQL", "MongoDB"},
 	"interests":       []string{"software design", "machine learning", "algorithms", "cloud"},
