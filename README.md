@@ -51,3 +51,6 @@ whoAmI := map[string]interface{}{
 
 [![](https://img.shields.io/badge/-mohammadne@mail.ru-lightgray?style=for-the-badge&logo=gmail)](mailto:mohammadne@mail.ru)
 [![](https://img.shields.io/badge/-mohammadne-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadne/)
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOZkBHtcMtnaKL5Vu586JjaSeLS0fSjk+AgG/oEdEFbM mohammadne@mail.ru
+
