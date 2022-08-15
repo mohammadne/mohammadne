@@ -13,7 +13,7 @@ whoAmI := map[string]interface{}{
 	"profession": "Backend & Devops Engineer",
 	"university": "Amirkabir university of Technology",
 	"languages":  []string{"Go", "Rust", "Lua", "Python", "Javascript"},
-	"interests":  []string{"software design", "machine learning", "algorithms", "cloud", "webRTC"},
+	"interests":  []string{"software design", "ML", "algorithms", "cloud", "webRTC"},
 	"design":     []string{"Clean Architecture", "Microservices"},
 	"tools":      []string{"Kubernetes", "Docker", "NeoVIM", "Git"},
 	"systems":    []string{"Linux", "MacOs"},
@@ -44,18 +44,14 @@ whoAmI := map[string]interface{}{
 ## 🧮 Things, quantified
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=radical&line_height=40">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical">
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=mohammadne&theme=redical">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mohammadne&theme=redical">
 </p> 
 
 <p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohammadne&theme=radical" alt="Mohammad's Wakatime"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&show_icons=true&theme=radical"/>
 </p>
