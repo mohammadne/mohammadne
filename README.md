@@ -31,14 +31,14 @@ whoAmI := map[string]interface{}{
 - Cryptography books and protocols
 - Database and API design
 - Clean code and design patterns
-- [luv](https://github.com/luvit/luv) and [libuv](https://github.com/libuv/libuv)
+- AI and ML !
 
 ## 💪 Things I do for fun
 
-- 🏋 Weightlifting
+- 🏓 Ping Pong
 - ⌨️ Coding
+- 📚 Reading
 - 🤼 Contributing to open-source projects
-- 🍳 Cooking (and eating)
 - ✈️ Travel
 
 ## 🧮 Things, quantified
