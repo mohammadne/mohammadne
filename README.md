@@ -48,11 +48,6 @@ whoAmI := map[string]interface{}{
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=dark" alt="Mohammad's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&theme=dark" alt="Mohammad's Github Steak" />
-</p>
-
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=mohammadne&theme=redical">
 </p> 
@@ -62,7 +57,5 @@ whoAmI := map[string]interface{}{
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=radical" alt="Mohammad's GitHub stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&theme=radical" alt="Mohammad's Github Steak" /><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohammadne&theme=radical" alt="Mohammad's Wakatime"></a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohammadne&theme=radical" alt="Mohammad's Wakatime"></a>
 </p>
