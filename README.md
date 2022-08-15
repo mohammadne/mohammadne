@@ -1,8 +1,6 @@
 ## mohammadne 🌳
 
 > I'm mohammad nasr, a self-taught backend and devops engineer, I'm currently looking for my next opportunity!
->
-> You can reach me here or at my [email](mailto:mohammadne.dev@gmail.com). I'm always happy to help.
 > 
 > Let's keep pushing the limits.
 
