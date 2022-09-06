@@ -55,9 +55,9 @@ whoAmI := map[string]interface{}{
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical">
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
   <img src="https://activity-graph.herokuapp.com/graph?username=mohammadne&theme=redical">
-</p> 
+</p> -->
 
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&show_icons=true&theme=radical"/>
